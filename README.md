@@ -1,9 +1,9 @@
 # Hi 👋, I'm Zeeshan  
 ## 🚀 MERN Stack Developer | Passionate Web Developer from Pakistan 🇵🇰  
 
-🎓 BS Computer Science Graduate – University of Azad Jammu & Kashmir
-💻 Full Stack Web Developer (MERN) — React, Next.js, Node.js, MongoDB
-🤖 Build AI Chatbots & automation tools
+🎓 BS Computer Science Graduate – University of Azad Jammu & Kashmir  
+💻 Full Stack Web Developer (MERN) — React, Next.js, Node.js, MongoDB  
+🤖 Build AI Chatbots & automation tools  
 👯 Open to collaborate on Full Stack or Open Source Projects  
 📫 Reach me at **khawajazeeshan500@gmail.com**  
 ⚡ Fun fact: I love turning creative ideas into real, working web apps!  
