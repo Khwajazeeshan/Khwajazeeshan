@@ -85,9 +85,9 @@
 ---
 
 ### 📈 GitHub Stats  
-![Zeeshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khwajazeeshan&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Khwajazeeshan&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khwajazeeshan&layout=compact&theme=radical)
+![Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Khwajazeeshan&layout=compact&theme=radical)
 
 ---
 
