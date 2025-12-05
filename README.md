@@ -5,7 +5,7 @@
 💻 Full Stack Web Developer (MERN) — React, Next.js, Node.js, MongoDB  
 🤖 Build AI Chatbots & automation tools  
 👯 Open to collaborate on Full Stack or Open Source Projects  
-📫 Reach me at **khawajazeeshan500@gmail.com**  
+📫 Reach me at **khawajazeeshan225@gmail.com**  
 ⚡ Fun fact: I love turning creative ideas into real, working web apps!  
 
 ### 🌐 Connect with Me  
