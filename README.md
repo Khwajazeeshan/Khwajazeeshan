@@ -69,16 +69,16 @@
 
 ---
 
+### 🚀 Featured Projects
 
----
-
-### 🚀 Featured Projects    
-- 🛒 **E-commerce Website (MERN Stack)** – Full-featured store with authentication, cart, and payment system  
-- 🎵 **Spotify Clone** – Music player built with HTML, CSS, and JavaScript  
-- 🎬 **Netflix Clone** – Responsive Netflix UI replica  
-- 📂 **File Organizer** – Node.js script for automated file management  
-- 📰 **News App (Python)** – Fetches and displays local news  
-- ✅ **To-Do List App** – Clean UI with CRUD functionality  
+* 🧠 **Revamping UAJK Portal (AI Chatbot + Full Stack)** – University portal with integrated AI support
+* 🛒 **E-commerce Website (MERN Stack)** – Complete store with auth & cart
+* 🤖 **AI Chatbot (MERN Stack)** – Smart chat system with backend NLP flow
+* 📋 **Task Manager (React)** – Simple task handling with smooth UI
+* 📰 **News App (Python)** – Fetches and displays local news 
+* ✅ **Todo List App (MERN Stack)** – CRUD-based daily task app
+* 🎵 **Spotify App (Frontend)** – Music player UI clone 
+* ✅ **To-Do List App** – Clean UI with CRUD functionality  
 🌐 **Portfolio Website**  
 ⚙️ More projects on my [GitHub Repositories](https://github.com/Khwajazeeshan?tab=repositories) →  
 
