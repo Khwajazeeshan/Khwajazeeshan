@@ -1,4 +1,4 @@
-# Hi 👋, I'm Zeeshan  
+# Hi 👋, I'm Khawaja Zeeshan  
 ## 🚀 MERN Stack Developer | Passionate Web Developer from Pakistan 🇵🇰  
 
 🎓 BS Computer Science Graduate – University of Azad Jammu & Kashmir  
