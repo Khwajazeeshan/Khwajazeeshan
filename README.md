@@ -74,6 +74,7 @@
 * 🧠 **Revamping UAJK Portal (AI Chatbot + Full Stack)** – University portal with integrated AI support
 * 🛒 **E-commerce Website (MERN Stack)** – Complete store with auth & cart
 * 🤖 **AI Chatbot (MERN Stack)** – Smart chat system with backend NLP flow
+* 📋 **AI-Powered Personal Portfolio** – MERN-based personal portfolio with admin dashboard and AI chatbot. 
 * 📋 **Task Manager (React)** – Simple task handling with smooth UI
 * 📰 **News App (Python)** – Fetches and displays local news 
 * ✅ **Todo List App (MERN Stack)** – CRUD-based daily task app
