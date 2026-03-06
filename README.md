@@ -16,8 +16,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/khawaja-zeeshan-11a912323)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Khwajazeeshan)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:khawajazeeshan225@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khawajazeeshan225@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge\&logo=instagram\&logoColor=white)](https://www.instagram.com/khawaja.zeeshan_?igsh=MThtcnRwN2J3bWNscw==)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923129475508)
 
 ---
 
@@ -76,9 +77,7 @@
 ### 🚀 Featured Projects
 
 * [**Revamping UAJK Portal Empowered with AI Chatbot**](https://uajk-portal.vercel.app/)
-  • Built a full MERN-based university portal with a modern UI, 3D model integration.
-  • Integrated AI assistant for smart recommendations.
-  • Added an Admin Dashboard for student tracking and a Student Dashboard for registrations and profile management. Focused on smoother user experience and automated support.
+  Built a full MERN-based university portal with a modern UI, 3D model integration. Integrated AI assistant for smart recommendations. Added an Admin Dashboard for student tracking and a Student Dashboard for registrations and profile management. Focused on smoother user experience and automated support.
 
 * [**SecureAuth**](https://secure-auth-ten.vercel.app/)
   A full-stack authentication system using Next.js, MongoDB, and Tailwind CSS with JWT access/refresh token architecture. Implemented OAuth login (Google, GitHub), email verification, password recovery, and middleware-based route protection.
