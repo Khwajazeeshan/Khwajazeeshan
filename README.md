@@ -71,6 +71,9 @@
   <a href="https://code.visualstudio.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
   </a>
+  <a href="https://www.antigravity.io/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Antigravity_icon.png" alt="antigravity" width="40" height="40"/>
+</a>
 </p>
 
 ---
