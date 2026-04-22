@@ -76,6 +76,9 @@
 
 ### 🚀 Featured Projects
 
+* [**Shopix — E-Commerce Platform**](https://shopix-ecommerce-store.vercel.app)
+  Built a full-featured multi-role marketplace using Next.js 15 App Router and MongoDB, with separate dashboards for Customer, Seller, and Admin. Implemented real-time chat using Pusher, Stripe payments (online + COD), and an AI chatbot assistant for support. Developed complete order lifecycle including checkout, tracking, returns, and automated email notifications. Focused on security and scalability with Next-Auth + JWT, Upstash Redis rate limiting, Jest testing, Playwright E2E, Sentry monitoring, Swagger docs, and Docker deployment.
+
 * [**Revamping UAJK Portal Empowered with AI Chatbot**](https://uajk-portal.vercel.app/)
   Built a full MERN-based university portal with a modern UI, 3D model integration. Integrated AI assistant for smart recommendations. Added an Admin Dashboard for student tracking and a Student Dashboard for registrations and profile management. Focused on smoother user experience and automated support.
 
