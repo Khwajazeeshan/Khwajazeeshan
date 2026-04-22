@@ -24,7 +24,7 @@
 
 ### 🧠 Technologies & Tools
 
-<p align="left">
+<p align="left" style="white-space: nowrap; overflow-x: auto;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
   </a>
