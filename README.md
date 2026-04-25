@@ -20,12 +20,11 @@
 ```ts
  khawaja Zeeshan = {
   role        : "MERN Stack Developer & Full-Stack Engineer",
-  education   : "BS Computer Science — UAJK (2021–2025)",
+  education   : "Bachelor of Science in Computer Science (BSCS) (2021–2025)",
   location    : "Islamabad, Pakistan 🇵🇰",
   focus       : ["Next.js", "REST APIs", "Auth Systems", "Real-Time Apps"],
   currentWork : "Building production-level full-stack web applications",
   openTo      : "Entry-level roles & internship opportunities",
-  funFact     : "I turn ideas into working apps — fast ⚡",
 };
 ```
 
