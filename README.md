@@ -194,9 +194,7 @@ Manage and share all your social links from one page.
 
 ## 🎓 Education
 
-🏛️ **University of Azad Jammu & Kashmir** — *2021 – 2025*
-
-📘 Bachelor of Science in Computer Science (BSCS)
+📘 Bachelor of Science in Computer Science (BSCS) (2021–2025)
 
 🎯 Specialization: **Full-Stack Web Development (MERN Stack)**
 
